@@ -1,0 +1,47 @@
+﻿@model IEnumerable<site.Models.NivelModel>
+
+@{
+    ViewData["Title"] = "Nivel";
+}
+
+<h1>Nivel</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+        <hr/>
+        <div class="row">
+            <div class="col-md-4">
+                <form action="/consultor/nivel" asp-antiforgery="true" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <input name="Descricao" class="form-control" placeholder="Descrição"/>
+                    </div>
+                    <br/>
+                    <div class="br-input">
+                        <input name="botao" type="submit" value="Incluir" />
+                        <label for="mensagem" style="color:red">@ViewBag.Mensagem</label>
+                        <input type="hidden" name="check_login" value="token" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                <a href="nivel/delete?id=@item.IdNivel">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

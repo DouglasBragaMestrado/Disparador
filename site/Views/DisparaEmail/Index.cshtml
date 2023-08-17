@@ -1,0 +1,76 @@
+﻿
+@{
+    Layout = null;
+ }
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+   <div class="row">
+
+        <div class="col-lg-4 col-md-6 footer-newsletter">
+            <form method="post">
+
+                 <div class="form-group">
+                  <label for="name">Assunto</label>
+                  <input type="text" name="assunto" class="form-control"  />
+                </div>
+
+                
+                 <div class="form-group">
+                  <label for="name">Mensagem</label>
+                  <input type="text" name="mensagem" class="form-control"  />
+                </div>
+
+                     <label for="name">Credencial: notreply@dewconsultoria.com.br senha:H7bEmhDn3#U$jiK</label>
+                <div class="form-group">
+                    <label for="name">smtp.kinghost.net e smtp.dewconsultoria.com.br</label>
+                  <label for="name">SMTP</label>
+                  <input type="text" name="HOST" class="form-control"  />
+                </div>
+
+                <div class="form-group">
+                    <label for="name">587 e 465</label>
+                  <label for="name">Porta</label>
+                  <input type="text" name="Porta" class="form-control"  />
+                </div>
+
+                <div class="form-group">
+                  <label for="name">SSL</label>
+                  <select name="SSL">
+                      <option value="True" selected>True</option>
+                      <option value="False">False</option>
+                    </select>
+                </div>
+
+
+                <div class="form-group">
+                  <label for="name">Email Destino</label>
+                  <input type="text" name="ToEmail" class="form-control" value="doug_dev@outlook.com" />
+                </div>
+
+              
+                <div> @ViewBag.MensagemResposta</div>
+              <div class="text-center"><button type="submit">Enviar email</button></div>
+            </form>
+          </div>
+          </div>
+    
+</body>
+</html>

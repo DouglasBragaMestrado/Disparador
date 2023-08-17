@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Consultor";
+}
+
+<h1>Consultor</h1>
+
+<form asp-antiforgery="true" method="post">
+    <div class="br-input">
+        <label class="custom-control-label">Login:</label>
+        <input name="Login" class="form-control" />
+    </div>
+    <div class="br-input">
+        <label class="custom-control-label">Senha:</label>
+        <input name="Password" type="password" class="form-control">
+    </div>
+    <div class="br-input">
+        <input type="submit" value="Entrar" />
+        <label style="color:red">@ViewBag.Mensagem</label>
+    </div>
+</form>

@@ -1,0 +1,87 @@
+﻿@model site.Models.ConsultorModel
+
+
+<form action="/consultor/cadastro" asp-antiforgery="true" method="post" enctype="multipart/form-data">
+    <div class="br-input">
+        <input asp-for="NomeCompleto" class="form-control" placeholder="Nome completo"/>
+    </div>
+   <hr />
+    <div class="br-input">
+        <input asp-for="CEP" class="form-control" placeholder="CEP" new { onchange="this.form.submit();" } />
+    </div>
+       <div class="br-input">
+        <input asp-for="logradouro" class="form-control" placeholder="Endereço" value='@Model?.logradouro' new { onchange="this.form.submit();" }) />
+    </div>
+
+    <div class="br-input">
+        <input asp-for="numero" class="form-control" placeholder="Número" />
+    </div>
+    <div class="br-input">
+        <input asp-for="complemento" class="form-control" placeholder="Complemento" />
+    </div>
+    <div class="br-input">
+        <input asp-for="bairro" class="form-control" value='@Model?.bairro' placeholder="Bairro" />
+    </div>
+    <div class="br-input">
+        <input asp-for="localidade" class="form-control" value='@Model?.localidade' placeholder="Cidade" />
+    </div>
+    <div class="br-input">
+        <input asp-for="uf" class="form-control" value='@Model?.uf' placeholder="UF" />
+    </div>
+    <hr />
+    <div class="br-input">
+        <input asp-for="email" class="form-control" placeholder="Email" />
+    </div>
+    <div class="br-input">
+        <input type="tel" onkeydown="return mascaraTelefone(event)" placeholder="Telefone" name="telefone" value='@ViewBag.Telefone'>
+    </div>
+    <div class="br_input">
+        <input name ="password" class="form-control" placeholder="Senha"  type="password"/>
+    </div>
+    <hr />
+    <div class="br-input">
+        @Html.DropDownList("IdNivel",(List<SelectListItem>)ViewBag.Nivel, new {@class="mb-1",@style="width: 100%margin-top:4 px; padding:5px;"})
+    </div>
+    <div class="br-input">
+        @Html.DropDownList("IdStatus",(List<SelectListItem>)ViewBag.Status, new {@class="mb-1",@style="width: 100%margin-top:4 px; padding:5px;"})
+    </div>
+    <br />
+    
+    <div class="br-input">
+        <input name="botao" type="submit" value="Incluir" />
+        <label for="mensagem" style="color:red">@ViewBag.Mensagem</label>
+        <input type="hidden" name="check_login" value="token" />
+    </div>
+</form>
+
+<script>
+    function mascaraTelefone(event) {
+        let tecla = event.key;
+        let telefone = event.target.value.replace(/\D+/g, "");
+
+        if (/^[0-9]$/i.test(tecla)) {
+            telefone = telefone + tecla;
+            let tamanho = telefone.length;
+
+            if (tamanho >= 12) {
+                return false;
+            }
+
+            if (tamanho > 10) {
+                telefone = telefone.replace(/^(\d\d)(\d{5})(\d{4}).*/, "($1) $2-$3");
+            } else if (tamanho > 5) {
+                telefone = telefone.replace(/^(\d\d)(\d{4})(\d{0,4}).*/, "($1) $2-$3");
+            } else if (tamanho > 2) {
+                telefone = telefone.replace(/^(\d\d)(\d{0,5})/, "($1) $2");
+            } else {
+                telefone = telefone.replace(/^(\d*)/, "($1");
+            }
+
+            event.target.value = telefone;
+        }
+
+        if (!["Backspace", "Delete"].includes(tecla)) {
+            return false;
+        }
+    }
+</script>
