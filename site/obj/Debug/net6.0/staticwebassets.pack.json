@@ -1,675 +1,675 @@
 {
   "Files": [
     {
-      "Id": "C:\\D&W\\site\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\site.bundle.scp.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\site.bundle.scp.css",
       "PackagePath": "staticwebassets\\site.bundle.scp.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\LogoBranco.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\LogoBranco.png",
       "PackagePath": "staticwebassets\\assets\\img\\LogoBranco.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\about.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\about.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-1.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-1.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-2.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-2.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-3.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-3.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-4.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-5.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-5.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-5.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-6.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-6.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-6.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-7.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-7.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-7.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\clients\\client-8.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\clients\\client-8.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-8.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\cta-bg.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\cta-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cta-bg.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\features-1.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\features-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\features-1.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\features-2.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\features-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\features-2.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\features-3.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\features-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\features-3.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\features-4.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\features-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\features-4.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\hero-bg.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\hero-bg.png",
       "PackagePath": "staticwebassets\\assets\\img\\hero-bg.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\hero-img.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\hero-img.png",
       "PackagePath": "staticwebassets\\assets\\img\\hero-img.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio-details-1.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio-details-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-1.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio-details-2.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio-details-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-2.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio-details-3.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio-details-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-3.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-1.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-2.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-3.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-4.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-5.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-6.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-7.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-8.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-9.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\team-bg.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\team-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-bg.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\team\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\team\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\team\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\telaAtentBot.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\telaAtentBot.png",
       "PackagePath": "staticwebassets\\assets\\img\\telaAtentBot.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\icofont\\fonts\\icofont.woff",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\icofont\\fonts\\icofont.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\icofont\\fonts\\icofont.woff"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\icofont\\fonts\\icofont.woff2",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\icofont\\fonts\\icofont.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\icofont\\fonts\\icofont.woff2"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\icofont\\icofont.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\icofont\\icofont.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\icofont\\icofont.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\jquery.easing\\jquery.easing.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\jquery.easing\\jquery.easing.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery.easing\\jquery.easing.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\LICENSE",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\LICENSE",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\README.md",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\README.md",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\README.md"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\owl.carousel.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\owl.carousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\owl.carousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl.carousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\venobox\\venobox.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\venobox\\venobox.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\venobox\\venobox.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\assets\\vendor\\venobox\\venobox.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\venobox\\venobox.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\forms\\Readme.txt",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\forms\\Readme.txt",
       "PackagePath": "staticwebassets\\forms\\Readme.txt"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\forms\\contact.php",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\forms\\contact.php",
       "PackagePath": "staticwebassets\\forms\\contact.php"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\images\\googleLogo.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\images\\googleLogo.png",
       "PackagePath": "staticwebassets\\images\\googleLogo.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\images\\microsoftLogo.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\images\\microsoftLogo.png",
       "PackagePath": "staticwebassets\\images\\microsoftLogo.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\images\\vonageLogo.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\images\\vonageLogo.png",
       "PackagePath": "staticwebassets\\images\\vonageLogo.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\images\\whatsapp.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\images\\whatsapp.png",
       "PackagePath": "staticwebassets\\images\\whatsapp.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\images\\whatsappLogo.png",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\images\\whatsappLogo.png",
       "PackagePath": "staticwebassets\\images\\whatsappLogo.png"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\D&W\\site\\wwwroot\\modeloEmail.html",
+      "Id": "C:\\Users\\aleme\\Desktop\\Learning\\Disparador\\site\\wwwroot\\modeloEmail.html",
       "PackagePath": "staticwebassets\\modeloEmail.html"
     },
     {
