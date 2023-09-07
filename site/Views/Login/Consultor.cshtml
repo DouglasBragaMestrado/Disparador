@@ -1,21 +1,89 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Consultor";
 }
+<body onmousedown="return true" onselectstart="return false">
+</body>
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+<link rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous">
+<h1>Consultor</h1>
+<!-- Section do login -->
+<section class="">
+    <!-- Textos e titulo -->
+    <div class="px-4 py-5 px-md-5 text-lg-start" style="background-color: hsl(0, 0%, 96%)">
+        <div class="container">
+            <div class="row gx-lg-5 align-items-center">
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <h1 class="my-5 display-3 fw-bold ls-tight">
+                        <span class="text-primary">AtentBot</span>
+                    </h1>
+                    <p style="color: hsl(217, 10%, 50.8%)">
+                        <span class="display-6">Plataformas de atendimento ao cliente com Inteligência Artificial.</span><br /><br />
+                        <span class="text-primary fw-bold">Entre já conosco e venha automatizar seus serviços.</span>
+                    </p>
+                </div>
 
-<h1>Login de Consultor</h1>
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <div class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
+                        <div class="card-body py-5 px-md-5">
+                            <form asp-antiforgery="true" method="post">
+                                <label class="w-75 py-2 mb-2 btn-outline-secondary rounded-3" style="color:red;background-color: hsl(0, 0%, 96%)">@ViewBag.Mensagem</label>
+                                <!-- Input de Email -->
+                                <div class="form-floating mb-3">
+                                    <input type="email" class="form-control rounded-3" id="floatingInput" placeholder="nome@exemplo.com">
+                                    <label for="floatingInput">Email</label>
+                                </div>
 
-<form asp-antiforgery="true" method="post">
-    <div class="br-input">
-        <label class="custom-control-label">Login:</label>
-        <input name="Login" class="form-control" />
+                                <!-- Input de Senha -->
+                                <div class="input-group">
+                                    <div class="form-floating mb-3 w-75">
+                                        <input type="password" name="password" id="password" class="form-control" placeholder="Senha" aria-label="Input group example" aria-describedby="basic-addon1">
+                                        <label for="password">Senha</label>
+                                    </div>
+                                    <div class="input-group-append mb-3">
+                                        <button class="btn btn-outline-secondary bi bi-eye" type="button" id="togglePassword">
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="checkbox mb-3 w-100">
+                                    <label>
+                                        <input type="checkbox" value="remember-me"> Remember me
+                                    </label>
+                                </div>
+                                <!-- Botão de Entrar -->
+                                <button type="submit" class="btn btn-primary btn-block mb-4 text-uppercase">
+                                    Entrar
+                                </button>
+                                <!-- divisão para outras entradas junto as imagens delas -->
+                                <div class="text-center">
+                                    <p>Outras opções de login:</p>
+                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                        <img src="~/images/Google_Icon_min.jpg" class="fab img-fluid float-left" />
+                                    </button>
+                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                        <img src="~/images/Google_Icon_min.jpg" class="fab img-fluid float-left" />
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="br-input">
-        <label class="custom-control-label">Senha:</label>
-        <input name="Password" type="password" class="form-control">
-    </div>
-    <div class="br-input">
-        <input type="submit" value="Entrar" />
-        <label style="color:red">@ViewBag.Mensagem</label>
-    </div>
-</form>
+</section>
+<script>
+    const togglePassword = document
+        .querySelector('#togglePassword');
+    const password = document.querySelector('#password');
+    togglePassword.addEventListener('click', () => {
+        const type = password
+            .getAttribute('type') === 'password' ?
+            'text' : 'password';
+        password.setAttribute('type', type);
+        this.classList.toggle('bi-eye-slash');
+    });
+</script>
